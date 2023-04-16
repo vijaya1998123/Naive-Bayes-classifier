@@ -7,8 +7,9 @@ Programming: Python
 
 Python Implementation of the Naïve Bayes classifier:
 
--Data Pre-processing step
--Fitting Naive Bayes to the Training set
--Predicting the test result
--Test accuracy of the result
--Visualizing the test set result.
+Go to google colab and upload the file
+Download the dataset from the above link
+Upload the csv file into the google colab
+Import all the required packages used for this project
+make sure to change the path for the dataset
+Go to runtime option in the google colab and click on runall to run the code
